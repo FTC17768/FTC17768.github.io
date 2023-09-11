@@ -31,3 +31,8 @@
   background-color: #04AA6D;
   color: white;
 }
+.donatebutton {
+  background-color: aqua;
+  height: 10vh;
+  width: 15vw;
+}
